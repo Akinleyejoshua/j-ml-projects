@@ -1,0 +1,8 @@
+days,wake(am),sleep(am),index,sleep(pm),wake(pm)
+Monday,8,12,0,0,12
+Tuesday,12,2,1,0,0
+Wednesday,10,3,2,11,0
+Thursday ,10,1,3,10,0
+Friday,11,1,4,0,0
+Saturday,3,4,5,0,0
+Sunday ,0,0,6,11,0
